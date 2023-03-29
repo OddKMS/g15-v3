@@ -1,6 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "//wsl.localhost/Ubuntu-20.04/home/oddkms/projects/g15-v3/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
-  (lib (name "random-keyboard-parts")(type "Legacy")(uri "//wsl.localhost/Ubuntu-20.04/home/oddkms/projects/g15-v3/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
-  (lib (name "Type-C")(type "Legacy")(uri "//wsl.localhost/Ubuntu-20.04/home/oddkms/projects/g15-v3/Type-C.pretty/Type-C.lib")(options "")(descr ""))
-)
